@@ -16,15 +16,6 @@ Get instant profile metadata
 
 Live browser preview
 
-## 🌐 Modern Browser
-Multiple tabs with suspend/resume
-
-Microsoft account integration
-
-OneDrive sync for bookmarks/history
-
-Link safety checker
-
 ## ⚙️ System Requirements
 OS: Windows 10/11 (64-bit)
 
